@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Vingadores Guerra Infinita",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+        "descricao": "Em Vingadores: Guerra Infinita, Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes."
+    },
+    {
+        "id": "2",
+        "title": "O Expresso do Amanhã",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg",
+        "descricao": "Num futuro onde um experimento matou todo o que viver, os que sobreviveram viajam num trem enquanto organiçam um novo sistema social."
+    },
+    {
+        "id": "3",
+        "title": "O Livro de Eli",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNTE1OWI1YzgtZjEyMy00MjQ4LWE0NWMtYTNhYjc0ZDQ3ZGRkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+        "descricao": "Um conto pós-apocalíptico, em que um homem solitário atravessa a América para proteger um livro sagrado que guarda os segredos para salvar a humanidade."
+    },
+    {
+        "id": "4",
+        "title": "Jogador N° 1",
+        "cover": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+        "descricao": "Quando o criador de uma realidade virtual chamada OASIS morre, ele coloca um desafio póstumo a todos os usuários do OASIS para encontrar seu Ovo de Páscoa, que dará ao buscador a fortuna e o controle de seu mundo."
+    },
+    {
+        "id": "5",
+        "title": "No Limite do Amanhã",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+        "descricao": "Um soldado lutando contra extraterrestes vive o mesmo día uma e outra vez."
+    },
+    {
+        "id": "6",
+        "title": "Interestelar",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "descricao": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço, na tentativa de garantir a sobrevivência da humanidade."
+    },
+    {
+        "id": "7",
+        "title": "Guerra Mundial Z",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "descricao": "O ex-funcionário das Nações Unidas, cruza o mundo em uma corrida contra o tempo para deter a pandemia de zumbis que está desmoronando exércitos e governos, e ameaça destruir a própria humanidade."
+    },
+    {
+        "id": "8",
+        "title": "V de Vingança",
+        "cover": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
+        "descricao": "Em um futuro da tirania britânica, um lutador clandestino conhecido como V trama um plano para derrubá-la com a ajuda de uma jovem mulher."
+    }
+]
